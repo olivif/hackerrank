@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algorithms\Warmup\CircularArray.cs" />
     <Compile Include="Algorithms\Warmup\TripletScore.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
